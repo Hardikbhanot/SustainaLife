@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767690430335",
+    "firebase_url": "https://sustainalife1801-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sustainalife1801",
+    "storage_bucket": "sustainalife1801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767690430335:android:3698901144fd0c8f926c4a",
+        "android_client_info": {
+          "package_name": "com.example.sustaina_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgr1XYwlNYumdnq0uOwOuJmc1N27MJjWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

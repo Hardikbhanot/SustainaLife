@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDGer3HSjCsP2snZgvEAYvW6Qpes4aOhuw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767690430335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sustainaLife</string>
+	<key>PROJECT_ID</key>
+	<string>sustainalife1801</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sustainalife1801.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767690430335:ios:eb6b30a8c760b661926c4a</string>
+	<key>DATABASE_URL</key>
+	<string>https://sustainalife1801-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
